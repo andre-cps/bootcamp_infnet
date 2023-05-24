@@ -1,1 +1,2 @@
-# bootcamp_infnet
+# Bootcamp Infnet
+Exercicios de aprendizado.
